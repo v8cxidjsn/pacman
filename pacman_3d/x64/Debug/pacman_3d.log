@@ -1,0 +1,65 @@
+﻿  cube.cpp
+  lodepng.cpp
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(714,10): warning C4334: "<<": wynik 32-bitowe przesunięcia niejawnie skonwertowano do 64 bitów (czy 64-bitowe przesunięcie było zamierzone?)
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(1374,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(1378,27): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(1450,40): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(3393,25): warning C4334: "<<": wynik 32-bitowe przesunięcia niejawnie skonwertowano do 64 bitów (czy 64-bitowe przesunięcie było zamierzone?)
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(3407,53): warning C4267: "argument": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(4214,42): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(4262,26): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(4342,34): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\images\lodepng.cpp(5281,27): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+  main.cpp
+  game.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: "APIENTRY": ponowna definicja makra
+  (kompilowanie pliku źródłowego „game/game.cpp”)
+      C:\Users\oskar\Desktop\pacman_3d\glfw-3.4.bin\include\GLFW\glfw3.h(123,11):
+      zobacz poprzednią definicję „APIENTRY”
+  
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(168,16): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(169,16): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(211,32): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(217,16): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(218,16): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(230,18): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(231,18): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(232,18): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(233,18): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(281,32): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(293,31): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(294,31): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(381,14): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(382,14): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(383,14): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(384,14): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(396,17): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(397,17): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(398,17): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(399,17): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(410,12): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(411,12): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(434,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(435,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(439,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(440,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(442,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(443,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(527,16): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(528,16): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(686,25): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\game\game.cpp(697,25): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  model.cpp
+  shaderprogram.cpp
+C:\Users\oskar\Desktop\pacman_3d\shaders\shaderprogram.cpp(41,15): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  sphere.cpp
+C:\Users\oskar\Desktop\pacman_3d\models\sphere.cpp(104,36): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  teapot.cpp
+  torus.cpp
+C:\Users\oskar\Desktop\pacman_3d\models\torus.cpp(104,36): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  objmodel.cpp
+C:\Users\oskar\Desktop\pacman_3d\models\objmodel.cpp(67,81): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\oskar\Desktop\pacman_3d\models\objmodel.cpp(139,73): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+glew32s.lib(glew.obj) : warning LNK4099: nie znaleziono pliku PDB „glew32s.pdb” z elementem „glew32s.lib(glew.obj)” lub w pozycji „C:\Users\oskar\Desktop\pacman_3d\x64\Debug\glew32s.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+  pacman_3d.vcxproj -> C:\Users\oskar\Desktop\pacman_3d\x64\Debug\pacman_3d.exe

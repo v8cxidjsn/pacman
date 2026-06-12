@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki naglówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki zródlowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="models\allmodels.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\constants.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\fonts.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="models\cube.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="images\lodepng.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="models\model.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="models\myCube.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="shaders\shaderprogram.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="models\sphere.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="models\teapot.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="models\torus.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="models\objmodel.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="pacman.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="ghost.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="game\cleanup.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="game\game.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="map\map_generate.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="map\map_settings.h">
+      <Filter>Pliki naglówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="models\cube.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+    <ClCompile Include="images\lodepng.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+    <ClCompile Include="models\model.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+    <ClCompile Include="shaders\shaderprogram.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+    <ClCompile Include="models\sphere.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+    <ClCompile Include="models\teapot.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+    <ClCompile Include="models\torus.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+    <ClCompile Include="models\objmodel.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+    <ClCompile Include="game\game.cpp">
+      <Filter>Pliki zródlowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\f_constant.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\f_colored.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\f_depth.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\f_lambert.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\f_lamberttextured.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\f_textured.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\v_constant.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\v_colored.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\v_depth.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\v_lambert.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\v_lamberttextured.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+    <None Include="shaders\v_textured.glsl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+  </ItemGroup>
+</Project>
